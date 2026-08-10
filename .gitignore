@@ -1,0 +1,13 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+
+# Node / React (para cuando creemos client/)
+node_modules/
+dist/
+.env
+
+# Varios
+*.log
